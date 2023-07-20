@@ -1,8 +1,8 @@
 # ISC2-CSSLP
 CSSLP Applied Scenario Exercise Code
 
-"Hash" folder --> Scenario: Hashing in Action 
-"SCA" folder --> Scenario: Software Composition Analysis (SCA)
-"Data" folder --> Scenario: Data Privacy and Testing
-"Metrics" folder --> Scenario: Software Metrics 
-"SAST" folder --> Scenario: Static Code Analysis
+<br />"Hash" folder --> Scenario: Hashing in Action 
+<br />"SCA" folder --> Scenario: Software Composition Analysis (SCA)
+<br />"Data" folder --> Scenario: Data Privacy and Testing
+<br />"Metrics" folder --> Scenario: Software Metrics 
+<br />"SAST" folder --> Scenario: Static Code Analysis
