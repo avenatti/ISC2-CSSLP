@@ -1,5 +1,7 @@
 #!/usr/bin/env python3
 
+# example tool using security libraries. no warranty. demonstrative only.
+
 import sys
 import requests
 from scapy.all import sr1, IP, ICMP
