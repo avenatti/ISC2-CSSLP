@@ -5,6 +5,8 @@
 
 Use the following mapping to find artifacts required to complete *Certified Secure Software Lifecycle Professional Applied Scenario Handbook exercises*. All exercise instructions within the handbook are based on *Visual Studio Code* and *Python 3.X*. 
 
+<br />
+
 ## CSSLP Applied Scenario Exercise Code 
 
 ##### "Hash" folder --> Scenario: Hashing in Action (Domains 1 & 7)
