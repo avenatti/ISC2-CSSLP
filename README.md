@@ -20,4 +20,5 @@ Use the following mapping to find artifacts required to complete *Certified Secu
 ##### "Custom Tools" folder --> Scenario: Building Custom Security Tools (Domains 5, 6, & 7)
 
 <br />
+
 *Note: Exercises and CSSLP domain mapping are based on the September 2023 exam outline.*
