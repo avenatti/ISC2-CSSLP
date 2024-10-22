@@ -1,6 +1,6 @@
 ![ISC2](https://www.isc2.org/images/logos/logo-isc2-green.svg)  
 <br />
-![CSSLP][(https://www.isc2.org/-/media/ISC2/ISC2-Icons/0-current-square-cert-logos/CSSLP---Square.ashx?h=75&w=75&la=en&hash=26C6B46A3015F2EA4A275256874D5AC05AB69259)](https://github.com/avenatti/ISC2-CSSLP/blob/main/9.15.2023ISC2_CSSLP_RGB__horiz_inline1.png)
+![CSSLP][(https://github.com/avenatti/ISC2-CSSLP/blob/main/9.15.2023ISC2_CSSLP_RGB__horiz_inline1.png)]
 <br />
 
 Use the following mapping to find artifacts required to complete *Certified Secure Software Lifecycle Professional Applied Scenario Handbook exercises*. All exercise instructions within the handbook are based on *Visual Studio Code* and *Python 3.X*. 
