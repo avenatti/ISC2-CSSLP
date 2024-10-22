@@ -1,5 +1,7 @@
 ![ISC2](https://raw.githubusercontent.com/avenatti/ISC2-CSSLP/refs/heads/main/ISC2-Logo.png)
 <br />
+<br />
+<br />
 ![CSSLP](https://raw.githubusercontent.com/avenatti/ISC2-CSSLP/refs/heads/main/CSSLP_logo.png)
 <br />
 
